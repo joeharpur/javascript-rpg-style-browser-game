@@ -1,3 +1,16 @@
+Online JavaScript Game (JavaScript, Python, HTML5, CSS3, Canvas, AJAX, SQL)
+
+▪ Developed using JavaScript alongside HTML5 canvas.
+▪ Features a register/login system, built using server-side python scripting and database management through SQL.
+▪ Users are managed on the client side by cookies and session files, and by database management on the server side.
+▪ Password security is provided using the SHA-256 secure hashing algorithm.
+▪ A high score system, and other database-reliant in-game features, were implemented using AJAX.
+ 
+Personal information eg. database login details have been removed
+
+ 
+Link: http://cs1.ucc.ie/~jh26/cgi-bin/lab7/index.py 
+ 
  
 From index.py you can either register a new player or login using username: Guest and password: 123
 
