@@ -1,0 +1,162 @@
+html {
+    background : #00deff;
+}
+
+body {
+    width : 85%;
+    padding-top : 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Press Start 2P', cursive;
+ 
+}
+
+img {
+    width : 250px;
+    height : 250px;
+    display : block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align : center;
+    padding-bottom : 30px;
+}
+
+header {
+    text-align :center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding : 20px, 20px, 0px, 20px;
+}
+
+canvas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid black;
+}
+
+#output {
+    background : black;
+    width : 650px;
+    color : white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top : 0;
+    margin-bottom : 0;
+    text-align :center;
+}
+
+form {
+    margin-left: auto;
+    margin-right: auto;
+    text-align : center;
+}
+
+p {
+    text-align : center;
+}
+    
+table {
+   
+    
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse : collapse;
+    width : 650px;
+    margin-top : 0;
+    border : 5px solid black;
+    height : 90%;
+    background-image: url("images/noticeboard.png");
+}
+
+#battle_score_display {
+    height : 500px;
+}
+
+th, td {
+    border : none;
+}
+
+th {
+    color : black;
+    text-align : left;
+    text-decoration : underline;
+    padding-left : 20px;
+    padding-right : 20px;
+    padding-top : 0px;
+    padding-bottom : 0px;
+}
+
+td {
+    color : white;
+}
+
+.center_head {
+    text-align : center;
+}
+
+ul {
+    list-style: none;
+    padding: 1em;
+    width : 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align : center;
+    
+}
+
+ul li {
+    display: inline;
+    text-align: center;
+    
+    
+}
+
+a {
+    border: 2px solid black;
+    padding: 0.3em .75em 0.3em .75em;
+    text-decoration: none;
+    color: white;
+    background:#ff4949; 
+}
+
+li a:hover {
+    background-color: #711515;
+}
+
+input[type=submit] {
+    color: white;
+    padding: 0.5em 1em 0.5em 1em; 
+    font-family: 'Press Start 2P', cursive;
+    background:#ff4949; 
+    border:2px solid black;
+}
+
+input[type=submit]:hover {
+    background-color: #711515;
+}
+
+input[type=text], input[type=password] {
+    color: black;
+    padding : .5em;
+    font-family: 'Press Start 2P', cursive;
+    background:white; 
+    border:2px solid black;
+}
+
+nav {
+    text-align : center;
+    padding : 2em;
+}
+
+nav p, nav a {
+    display : inline;
+    width : 40%;
+}
+
+footer {
+    text-align : center;
+    padding-top : 100px;
+}

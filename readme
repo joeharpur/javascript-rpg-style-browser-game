@@ -1,0 +1,15 @@
+ 
+From index.py you can either register a new player or login using username: Guest and password: 123
+
+If an icon appears above your head ingame, you can interact with it using the spacebar.
+
+Key objects for interaction are the soldier in the bottom left, the houses, the balloon stall,
+the river, and the signpost.
+
+Highscores are displayed by interacting with the signpost. A user can only have one highscore
+per game. This will be overwritten if you achive a better score. A max of five scores are
+shown per game
+
+The house in the top left contains a 'fortune teller' who obtains random fortunes from a database.
+
+Enjoy!
